@@ -12,18 +12,8 @@ the source codes will be available after paper goes through the peer review.
 
 # Experiments
 
-
-
-https://github.com/user-attachments/assets/255f0c7c-56a5-44e6-8067-abb676bebb47
-
-
-https://github.com/user-attachments/assets/80a1d3e3-6694-41ec-84ad-838608811d5f
-
-
-
-https://github.com/user-attachments/assets/70b68494-81ee-4af3-89fa-22af30dd865c
-
-
-
-https://github.com/user-attachments/assets/f8d0a242-8470-45b8-b797-bb902e67fd41
-
+| Desired vel | Unseen Tree Secenario| Sphere Scenario          |
+|------|-----------------------------|--------------------------|
+| 3m/s |![tree3](media/tree3.gif)|![sphere3](media/sphere3.gif)|
+| 5m/s |![tree3](media/tree5.gif)|![sphere5](media/sphere5.gif)|
+| 7m/s |![tree3](media/tree7.gif)|![sphere7](media/sphere7.gif)|
