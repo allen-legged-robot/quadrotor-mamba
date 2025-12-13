@@ -10,7 +10,7 @@ the source codes will be available after paper goes through the peer review.
      style="border: 3px solid #333; border-radius: 8px;"
 />
 
-# Experiments
+# Experiments Results of Our Model
 
 | Desired vel | Unseen Tree Secenario| Sphere Scenario          |
 |------|-----------------------------|--------------------------|
